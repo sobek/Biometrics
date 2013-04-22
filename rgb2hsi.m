@@ -12,3 +12,7 @@ S=1-3.*(min(min(r,g),b))./(r+g+b+eps);
 I=(r+g+b)/3;
 hsi=cat(3,H,S,I);
 end
+
+Matlab File Exchange
+Madhu S. Nair 
+http://www.mathworks.com/matlabcentral/fileexchange/13630-rgb-to-hsi-conversion/content/rgbtohsi.m
